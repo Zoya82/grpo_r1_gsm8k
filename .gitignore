@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+*.env
+*.pem
+*.key
+models/
+hf_cache/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+grpo_out/
